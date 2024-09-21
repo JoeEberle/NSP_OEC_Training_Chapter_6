@@ -73,7 +73,7 @@ To get started with the **Nsp Oec Training Chapter 6** solution repository, foll
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](body_systems.png)  <br>![additional_image](NSP_OEC_Training_Chapter_6.png)  <br>
+ ![additional_image](arteries_vessels.png)  <br>![additional_image](blood.png)  <br>![additional_image](blood_pressure.png)  <br>![additional_image](body_positions.png)  <br>![additional_image](body_systems.png)  <br>![additional_image](cardiovascular_system.png)  <br>![additional_image](cells_tissues_organs.png)  <br>![additional_image](digestive_system.png)  <br>![additional_image](endocrine_system.png)  <br>![additional_image](heart.png)  <br>![additional_image](NSP_OEC_Training_Chapter_6.png)  <br>![additional_image](resperatory.png)  <br>![additional_image](urinary_system.png)  <br>
     
 
 ## Github    
