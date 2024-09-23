@@ -21,7 +21,7 @@ NSP_OEC_Training_Chapter_6
 
 Here’s a brief overview of key anatomic terms for body direction, movement, and position, along with examples of their proper use:
 
-##Body Direction:
+## Body Direction:
 1. **Anterior (Ventral)**: Toward the front of the body. Example: The sternum is anterior to the heart.
 2. **Posterior (Dorsal)**: Toward the back of the body. Example: The spine is posterior to the stomach.
 3. **Superior (Cranial)**: Toward the head or above. Example: The head is superior to the neck.
@@ -31,7 +31,7 @@ Here’s a brief overview of key anatomic terms for body direction, movement, and 
 7. **Proximal**: Closer to the point of attachment to the body. Example: The elbow is proximal to the wrist.
 8. **Distal**: Farther from the point of attachment to the body. Example: The fingers are distal to the elbow.
 
-##Body Movement:
+## Body Movement:
 1. **Flexion**: Decreasing the angle between two body parts. Example: Bending the elbow is flexion of the forearm.
 2. **Extension**: Increasing the angle between two body parts.  Example: Straightening the knee is extension of the leg.
 3. **Abduction**: Moving a body part away from the midline. Example: Raising the arm sideways is abduction.
@@ -40,7 +40,7 @@ Here’s a brief overview of key anatomic terms for body direction, movement, and 
 6. **Pronation**: Rotating the forearm so the palm faces down. Example: Turning the palm downward is pronation.
 7. **Supination**: Rotating the forearm so the palm faces up. Example: Turning the palm upward is supination.
 
-##Body Position:
+## Body Position:
 1. **Supine**: Lying on the back, face up. Example: The patient is placed in a supine position for the exam.
 2. **Prone**: Lying on the stomach, face down. Example: The patient is in a prone position during certain back surgeries.
 3. **Lateral (Side-Lying)**: Lying on one side. Example: The recovery position places the patient in a lateral position.
@@ -129,7 +129,7 @@ These organs work together to maintain vital bodily functions.
 8. The **left ventricle contracts**, sending oxygenated blood through the aortic valve into the aorta.
 9. **Blood is distributed** to the rest of the body through the aorta, delivering oxygen to tissues.
 
-## major bones in the body, along with their location:
+## Major bones in the body, along with their location:
 
 1. **Skull**: Located in the head, it protects the brain and forms the structure of the face.
 2. **Mandible**: The lower jawbone, located in the face, responsible for mouth movement.
@@ -153,7 +153,6 @@ These organs work together to maintain vital bodily functions.
 13. **Scapula (Shoulder Blade)**: Located in the upper back, it connects the humerus with the clavicle and supports arm movement.
 
 These major bones form the structure of the body and provide protection to vital organs.
-
 
 
 ## Three Types of Muscles: 
