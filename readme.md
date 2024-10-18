@@ -153,7 +153,7 @@ These major bones form the structure of the body and provide protection to vital
 2. **Cardiac Muscle**: Involuntary muscle found only in the heart, responsible for pumping blood through the circulatory system with rhythmic contractions.
 3. **Smooth Muscle**: Involuntary muscle found in the walls of internal organs (e.g., intestines, blood vessels), responsible for regulating movements like digestion and blood flow by contracting slowly and steadily.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
