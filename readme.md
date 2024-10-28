@@ -21,7 +21,7 @@
 
 ## 6.1. Identify and properly use each anatomic term for body direction, movement, and position.
 
-Here’s a brief overview of key anatomic terms for body direction, movement, and position, along with examples of their proper use:
+Hereâ€™s a brief overview of key anatomic terms for body direction, movement, and position, along with examples of their proper use:
 
 ## Body Direction:
 1. **Anterior (Ventral)**: Toward the front of the body. Example: The sternum is anterior to the heart.
@@ -46,12 +46,12 @@ Here’s a brief overview of key anatomic terms for body direction, movement, and 
 1. **Supine**: Lying on the back, face up. Example: The patient is placed in a supine position for the exam.
 2. **Prone**: Lying on the stomach, face down. Example: The patient is in a prone position during certain back surgeries.
 3. **Lateral (Side-Lying)**: Lying on one side. Example: The recovery position places the patient in a lateral position.
-4. **Fowler’s Position**: Sitting upright or inclined at an angle. Example: A patient with breathing difficulty is placed in Fowler's position.
+4. **Fowlerâ€™s Position**: Sitting upright or inclined at an angle. Example: A patient with breathing difficulty is placed in Fowler's position.
 
 These terms are used in anatomy and medical settings to describe locations, movements, and positions accurately.
 
 
-## 2. Human body’s major organs, their location, and their function:
+## 2. Human bodyâ€™s major organs, their location, and their function:
 
 1. **Heart**: Located in the chest, between the lungs. It pumps blood throughout the body, supplying oxygen and nutrients while removing carbon dioxide and waste.
 2. **Lungs**: Located on either side of the chest. They exchange oxygen from the air with carbon dioxide from the blood.
@@ -94,7 +94,7 @@ These systems work together to maintain the body's overall homeostasis and funct
 
 
 
-## Human body’s major organs, their location, and their function:
+## Human bodyâ€™s major organs, their location, and their function:
 
 1. **Heart**: Located in the chest, between the lungs. It pumps blood throughout the body, supplying oxygen and nutrients while removing carbon dioxide and waste.
 2. **Lungs**: Located on either side of the chest. They exchange oxygen from the air with carbon dioxide from the blood.
