@@ -21,7 +21,7 @@
 
 ## 6.1. Identify and properly use each anatomic term for body direction, movement, and position.
 
-Hereâ€™s a brief overview of key anatomic terms for body direction, movement, and position, along with examples of their proper use:
+Here’s a brief overview of key anatomic terms for body direction, movement, and position, along with examples of their proper use:
 
 ## Body Direction:
 1. **Anterior (Ventral)**: Toward the front of the body. Example: The sternum is anterior to the heart.
@@ -46,12 +46,12 @@ Hereâ€™s a brief overview of key anatomic terms for body direction, movement, an
 1. **Supine**: Lying on the back, face up. Example: The patient is placed in a supine position for the exam.
 2. **Prone**: Lying on the stomach, face down. Example: The patient is in a prone position during certain back surgeries.
 3. **Lateral (Side-Lying)**: Lying on one side. Example: The recovery position places the patient in a lateral position.
-4. **Fowlerâ€™s Position**: Sitting upright or inclined at an angle. Example: A patient with breathing difficulty is placed in Fowler's position.
+4. **Fowler’s Position**: Sitting upright or inclined at an angle. Example: A patient with breathing difficulty is placed in Fowler's position.
 
 These terms are used in anatomy and medical settings to describe locations, movements, and positions accurately.
 
 
-## 2. Human bodyâ€™s major organs, their location, and their function:
+## 2. Human body’s major organs, their location, and their function:
 
 1. **Heart**: Located in the chest, between the lungs. It pumps blood throughout the body, supplying oxygen and nutrients while removing carbon dioxide and waste.
 2. **Lungs**: Located on either side of the chest. They exchange oxygen from the air with carbon dioxide from the blood.
@@ -94,7 +94,7 @@ These systems work together to maintain the body's overall homeostasis and funct
 
 
 
-## Human bodyâ€™s major organs, their location, and their function:
+## Human body’s major organs, their location, and their function:
 
 1. **Heart**: Located in the chest, between the lungs. It pumps blood throughout the body, supplying oxygen and nutrients while removing carbon dioxide and waste.
 2. **Lungs**: Located on either side of the chest. They exchange oxygen from the air with carbon dioxide from the blood.
@@ -168,24 +168,4 @@ These major bones form the structure of the body and provide protection to vital
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 6** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](arteries_vessels.png)  <br>![additional_image](blood.png)  <br>![additional_image](blood_pressure.png)  <br>![additional_image](body_positions.png)  <br>![additional_image](body_systems.png)  <br>![additional_image](cardiovascular_system.png)  <br>![additional_image](cells_tissues_organs.png)  <br>![additional_image](digestive_system.png)  <br>![additional_image](endocrine_system.png)  <br>![additional_image](heart.png)  <br>![additional_image](NSP_OEC_Training_Chapter_6.png)  <br>![additional_image](resperatory.png)  <br>![additional_image](urinary_system.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
